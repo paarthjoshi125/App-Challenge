@@ -188,3 +188,12 @@
 h2 {
   margin-top: 10%;
 }
+p {
+  margin-bottom: 10%;
+  margin-left: 5%;
+  font-size: medium;
+  text-align: left;
+}
+h3 {
+  margin-bottom: 12%;
+}
