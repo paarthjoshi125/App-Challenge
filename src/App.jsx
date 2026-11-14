@@ -1,9 +1,10 @@
 import "./App.css";
+import "./Global.css";
 import Card from "./components/Card";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <div>
+    <div className="mainbody">
       <Navbar></Navbar>
       <h1>App</h1>
       <Card>

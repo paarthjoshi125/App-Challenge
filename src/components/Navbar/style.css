@@ -2,8 +2,15 @@
     display:flex;
     justify-content: center;
     width: 100%;
-    background-color: blue;
+    background-color: #68A691;
+    padding: 10px;
+  min-width: 0;
+  box-sizing: border-box;
+  gap: 400px;
+    
 }
-.app-nav a{
-    color:white;
+
+.app-navbar a{
+    color:#FFE5D4;
+    
 }
