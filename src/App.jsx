@@ -2,6 +2,7 @@ import "./App.css";
 import "./Global.css";
 import Card from "./components/Card";
 import Navbar from "./components/Navbar";
+import QA from "./components/Q&A/accordion"; 
 function App() {
   return (
     <div className="mainbody">
@@ -10,6 +11,7 @@ function App() {
       <Card>
         <h3>Card 1</h3>
       </Card>
+      <QA></QA>
     </div>
   );
 }
