@@ -2,8 +2,7 @@ import "./style.css"
 
 function Navbar(){
 return (
-  <nav className="app-navbar">
-return (
+
   <nav className="app-navbar">
     <a>Home</a>
     <a>Q&A</a>
