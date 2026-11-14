@@ -1,5 +1,6 @@
 import "./App.css";
 import Card from "./components/Card";
+import QA from "./components/Q&A/accordion"; 
 function App() {
   return (
     <div>
@@ -7,6 +8,7 @@ function App() {
       <Card>
         <h3>Card 1</h3>
       </Card>
+      <QA></QA>
     </div>
   );
 }
